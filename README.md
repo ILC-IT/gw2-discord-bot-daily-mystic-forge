@@ -1,3 +1,6 @@
+# STATUS
+- Post SOTO update, it is not working because the game changed daily achievements, and "daily mystic coin" does not give a mystic coin anymore for doing it.
+
 # Notification example
 ![Example notificaton](./assets/imgapp/bot.png)
 
